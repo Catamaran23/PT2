@@ -1,0 +1,63 @@
+		Journal d'activité du service DHCPv6 Microsoft
+
+
+Signification des ID d'événement
+11000	Sollicitation DHCPv6.
+11001	Annonce DHCPv6.
+11002	Demande DHCPv6.
+11003	Confirmation DHCPv6.
+11004	Renouvellement DHCPv6.
+11005	Reliaison DHCPv6.
+11006	Refus DHCPv6.
+11007	Libération DHCPv6.
+11008	Demande d'informations DHCPv6.
+11009	Étendue DHCPv6 complète.
+11010	DHCPv6 démarré.
+11011	DHCPv6 arrêté.
+11012	Suspension du journal d'audit DHCPv6.
+11013	Fichier journal DHCPv6.
+11014	Adresse DHCPv6 incorrecte.
+11015	Adresse DHCPv6 déjà utilisée.
+11016	Client DHCPv6 supprimé.
+11017	Enregistrement DNS DHCPv6 non supprimé.
+11018	DHCPv6 expiré.
+11019	Baux DHCPv6 expirés et supprimés.
+11020	Début du nettoyage de la base de données DHCPv6.
+11021	Fin du nettoyage de la base de données DHCPv6.
+11022	Demande de mise à jour DNS IPv6.
+11023	Échec de la mise à jour DNS IPv6.
+11024	Réussite de la mise à jour DNS IPv6.
+11028	Échec de la demande de mise à jour DNS IPv6 en raison du dépassement du nombre maximal de demandes de mise à jour DNS dans la file d'attente.
+11029	Échec de la demande de mise à jour DNS IPv6.
+11030	Les enregistrements client sans état DHCPv6 ont été vidés.
+11031	L'enregistrement client sans état DHCPv6 est vidé puisque l'intervalle de vidage a expiré pour cet enregistrement client.
+11032	Demande d'informations DHCPV6 en provenance du client sans état IPV6.
+
+ID,Date,Heure,Description,Adresse IPv6,Nom d'hôte,Code d'erreur, Longueur Duid, Octets Duid (Hex),Nom d'utilisateur,Dhcid,Préfixe de sous-réseau.
+11020,07/25/20,00:00:08,DHCPV6 : début du nettoyage de la base de données,,,,,,,,,,
+11019,07/25/20,00:00:08,DHCPV6 : 0 baux ont expiré et 0 baux ont été supprimés,,,,,,,,,,
+11021,07/25/20,00:00:08,DHCPV6 : fin du nettoyage de la base de données,,,,,,,,,,
+11030,07/25/20,00:26:08,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,01:26:10,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,02:26:13,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,03:26:16,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,04:26:18,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,05:26:21,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,06:26:24,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,07:26:27,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,08:26:29,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,09:26:32,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,10:26:35,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,11:26:38,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,12:26:41,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,13:26:43,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,14:26:46,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,15:26:49,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,16:26:51,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,17:26:54,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,18:26:57,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,19:27:00,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,20:27:02,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,21:27:05,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,22:27:08,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
+11030,07/25/20,23:27:11,0 enregistrements de clients sans état DHCP V6 purgés,,,,,,,,,,
